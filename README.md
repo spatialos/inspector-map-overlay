@@ -14,12 +14,12 @@ A Chrome extension that overlays your game map over the Inspector viewport.
 * Works for both local and cloud Inspector
 
 ## Install for Mac, Linux, ChromeOS
-* Download `dist.crx` from the [releases page.](https://github.com/improbable/inspector-map-overlay/releases)
+* Download `dist.crx` from the [releases page.](https://github.com/spatialos/inspector-map-overlay/releases)
 * Install the extension by dragging the file while navigated to `chrome://extensions`
 * Review and accept the permissions to complete installation
 
 ## Install for Windows
-* Download and unzip `dist-win.zip` from the [releases page.](https://github.com/improbable/inspector-map-overlay/releases)
+* Download and unzip `dist-win.zip` from the [releases page.](https://github.com/spatialos/inspector-map-overlay/releases)
 * Install the extension by navigating to `chrome://extensions`, turning on Developer Mode and loading the folder with `Load Unpacked Extension`
 * Review and accept the permissions to complete installation
 
