@@ -1,0 +1,26 @@
+{
+  "name": "inspector-map-overlay",
+  "version": "0.1.0",
+  "description": "Map overlay feature for the SpatialOS Inspector",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/webpack",
+    "watch": "./node_modules/.bin/webpack -w"
+  },
+  "author": "Nick Tikhonov",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "jquery": "~3.2.1",
+    "moment": "~2.18.1"
+  },
+  "devDependencies": {
+    "@types/chrome": "~0.0.49",
+    "@types/jquery": "~3.2.13",
+    "ts-loader": "~2.3.7",
+    "typescript": "~2.5.3",
+    "webpack": "~3.7.0"
+  }
+}
